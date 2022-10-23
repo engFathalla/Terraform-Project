@@ -1,2 +1,1 @@
-# terraform-project
-Prepare AWS Structure
+![alt text](img/aws.png)
